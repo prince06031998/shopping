@@ -12,15 +12,23 @@
 	<atom:link href="http://localhost/wordpress/tu-khoa-san-pham/nitro/feed/" rel="self" type="application/rss+xml" />
 	<link>https://prince06031998.github.io/shopping</link>
 	<description>Laptop no1 VietNam</description>
-	<lastBuildDate>Sat, 19 Jun 2021 07:58:25 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 05 Jul 2021 11:49:58 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.7.2</generator>
+
+<image>
+	<url>https://prince06031998.github.io/shopping/wp-content/uploads/2021/06/unnamed-1-1.jpg</url>
+	<title>nitro &#8211; Laptop HH</title>
+	<link>https://prince06031998.github.io/shopping</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
-		<title>Acer Nitro 5 NVIDIA GeForce GTX 1650 4GB GDDR6</title>
+		<title>Acer Nitro 5 NVIDIA GeForce GTX 1650</title>
 		<link>https://prince06031998.github.io/shopping/product/acer-nitro-5/</link>
 					<comments>https://prince06031998.github.io/shopping/product/acer-nitro-5/#respond</comments>
 		
@@ -28,8 +36,21 @@
 		<pubDate>Sat, 19 Jun 2021 05:21:53 +0000</pubDate>
 				<guid isPermaLink="false">https://prince06031998.github.io/shopping/?post_type=product&#038;p=940</guid>
 
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
+					<description><![CDATA[ CPU: Intel Core i5-8300H ( 2.3 GHz - 4.0 GHz / 8MB / 4 nhân, 8 luồng )
+ Pin: 4 cell 48 Wh Pin liền , khối lượng: 2.4 kg
+]]></description>
+										<content:encoded><![CDATA[<p>Thương hiệu<br />
+ACER<br />
+Bảo hành<br />
+12<br />
+Thông tin chung<br />
+Màu sắc<br />
+Đen<br />
+Series laptop<br />
+Nitro 5<br />
+Part-number<br />
+NH.Q3LSV.002</p>
+]]></content:encoded>
 					
 					<wfw:commentRss>https://prince06031998.github.io/shopping/product/acer-nitro-5/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>

@@ -12,13 +12,21 @@
 	<atom:link href="http://localhost/wordpress/tu-khoa-san-pham/laptop/feed/" rel="self" type="application/rss+xml" />
 	<link>https://prince06031998.github.io/shopping</link>
 	<description>Laptop no1 VietNam</description>
-	<lastBuildDate>Sat, 19 Jun 2021 08:03:37 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 05 Jul 2021 11:50:27 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.7.2</generator>
+
+<image>
+	<url>https://prince06031998.github.io/shopping/wp-content/uploads/2021/06/unnamed-1-1.jpg</url>
+	<title>laptop &#8211; Laptop HH</title>
+	<link>https://prince06031998.github.io/shopping</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>Phím Logitech</title>
 		<link>https://prince06031998.github.io/shopping/product/phim-logitech/</link>
@@ -28,8 +36,90 @@
 		<pubDate>Sat, 19 Jun 2021 07:36:32 +0000</pubDate>
 				<guid isPermaLink="false">https://prince06031998.github.io/shopping/?post_type=product&#038;p=1025</guid>
 
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
+					<description><![CDATA[<div class="modal-header">
+<h5 id="modalLabel" class="modal-title">Thông số kỹ thuật chi tiết <a class="change-option product-selected-options" href="https://techzones.vn/akko-3068-v2-2021-year-of-the-ox-hotswap-akko-cs-matcha-green#" data-productid="30040" data-cid="30043">Thay đổi thuộc tính</a></h5>
+<div class="close" data-dismiss="modal" aria-label="Close"><i class="material-icons">close</i></div>
+</div>
+<div class="modal-body">
+<div class="product-specifications specification-table2">
+<table>
+<tbody>
+<tr class="title">
+<td colspan="2">Thông số phím</td>
+</tr>
+<tr data-title="Thông số phím">
+<td>Switch</td>
+<td>
+<ul class="spec-list">
+ 	<li>AKKO CS Switch (Ocean Blue / Rose Red / Matcha Green)</li>
+ 	<li>Có tính năng hotswap (thay nóng switch)</li>
+</ul>
+</td>
+</tr>
+<tr data-title="Thông số phím">
+<td>Chất liệu Keycap</td>
+<td>PBT Dye-Subbed – JDA Profile</td>
+</tr>
+<tr class="title">
+<td colspan="2">Kích thước vật lý</td>
+</tr>
+<tr data-title="Kích thước vật lý">
+<td>Kích thước</td>
+<td>312 x 102 x 40 mm</td>
+</tr>
+<tr data-title="Kích thước vật lý">
+<td>Trọng lượng</td>
+<td>0.59kg</td>
+</tr>
+<tr data-title="Kích thước vật lý">
+<td>Kiểu bàn phím</td>
+<td>68 phím</td>
+</tr>
+<tr class="title">
+<td colspan="2">Tổng quan</td>
+</tr>
+<tr data-title="Tổng quan">
+<td>Kiểu kết nối</td>
+<td>Bluetooth 5.0 / USB Type C, có thể tháo rời</td>
+</tr>
+<tr data-title="Tổng quan">
+<td>Đèn nền</td>
+<td>LED nền RGB, 18 chế độ LED</td>
+</tr>
+<tr data-title="Tổng quan">
+<td>Yêu cầu HĐH</td>
+<td>
+<ul class="spec-list">
+ 	<li>Windows / MacOS / Linux / IOS / ANDROID</li>
+ 	<li>Bàn phím AKKO khi kết nối với MacOS: (Ctrl -&#62; Control &#124; Windows -&#62; Command &#124; Alt -&#62; Option, Mojave OS trở lên sẽ điều chỉnh được thứ tự của các phím này)</li>
+</ul>
+</td>
+</tr>
+<tr data-title="Tổng quan">
+<td>Bộ nhớ trong</td>
+<td>Kết nối 4 thiết bị (4 profiles)</td>
+</tr>
+<tr data-title="Tổng quan">
+<td>Pin</td>
+<td>1800 mah ~ 200 giờ hoạt động</td>
+</tr>
+<tr class="title">
+<td colspan="2">Tính năng</td>
+</tr>
+<tr data-title="Tính năng">
+<td>Anti-ghosting</td>
+<td>Hỗ trợ NKRO/Multimedia/Macro/Khóa phím Windows</td>
+</tr>
+<tr data-title="Tính năng">
+<td>Macro Keys</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>]]></description>
+										<content:encoded><![CDATA[<p>Sale sập sàn mại dô mại dô</p>
+]]></content:encoded>
 					
 					<wfw:commentRss>https://prince06031998.github.io/shopping/product/phim-logitech/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -37,24 +127,7 @@
 		
 			</item>
 		<item>
-		<title>Chuột Logitech</title>
-		<link>https://prince06031998.github.io/shopping/product/chuot-logitech/</link>
-					<comments>https://prince06031998.github.io/shopping/product/chuot-logitech/#respond</comments>
-		
-		<dc:creator><![CDATA[Hoàng Lê]]></dc:creator>
-		<pubDate>Sat, 19 Jun 2021 07:32:45 +0000</pubDate>
-				<guid isPermaLink="false">https://prince06031998.github.io/shopping/?post_type=product&#038;p=1023</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-					<wfw:commentRss>https://prince06031998.github.io/shopping/product/chuot-logitech/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Asus TUF 15 NVIDIA GeForce GTX 1650 4GB GDDR6</title>
+		<title>Asus TUF 15 NVIDIA GeForce GTX 1650</title>
 		<link>https://prince06031998.github.io/shopping/product/asus-tuf-15/</link>
 					<comments>https://prince06031998.github.io/shopping/product/asus-tuf-15/#respond</comments>
 		
@@ -62,8 +135,36 @@
 		<pubDate>Sat, 19 Jun 2021 05:34:48 +0000</pubDate>
 				<guid isPermaLink="false">https://prince06031998.github.io/shopping/?post_type=product&#038;p=948</guid>
 
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
+					<description><![CDATA[<table id="tblGeneralAttribute" class="table table-bordered" border="3" cellspacing="3" cellpadding="3">
+<tbody>
+<tr class="row-info">
+<td>CPU</td>
+<td>AMD Ryzen 5 4600H 3.0GHz up to 4.0GHz 8MB</td>
+</tr>
+</tbody>
+</table>
+<table id="tblGeneralAttribute" class="table table-bordered" border="3" cellspacing="3" cellpadding="3">
+<tbody>
+<tr class="row-info">
+<td>Card đồ họa</td>
+<td>NVIDIA GeForce GTX 1650 4GB GDDR6 + AMD Radeon™ Graphics</td>
+</tr>
+</tbody>
+</table>
+<table id="tblGeneralAttribute" class="table table-bordered" border="3" cellspacing="3" cellpadding="3">
+<tbody>
+<tr class="row-info">
+<td>Màn hình</td>
+<td>15.6" FHD (1920 x 1080) IPS, 144Hz</td>
+</tr>
+</tbody>
+</table>]]></description>
+										<content:encoded><![CDATA[<p><strong>Nhà sản xuất</strong> : ASUS</p>
+<p><strong>Xuất xứ</strong> : Chính hãng</p>
+<p><strong>Bảo hành</strong> : 24 Tháng</p>
+<p><strong>Màu sắc :</strong> Gun Metal</p>
+<p><strong>Tình trạng</strong> : Mới 100%</p>
+]]></content:encoded>
 					
 					<wfw:commentRss>https://prince06031998.github.io/shopping/product/asus-tuf-15/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -79,8 +180,11 @@
 		<pubDate>Sat, 19 Jun 2021 05:30:20 +0000</pubDate>
 				<guid isPermaLink="false">https://prince06031998.github.io/shopping/?post_type=product&#038;p=946</guid>
 
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
+					<description><![CDATA[<p class="lileft">CPU:  <span class="comma">Intel Core i5 Kabylake Refresh </span><span class="comma">8250U ,1.60 GHz</span></p>
+<p class="lileft">Màn hình: <span class="comma">15.6"</span><span class="">Full HD (1920 x 1080)</span></p>
+<p class="lileft">Card màn hình: <span class="comma">Card tích hợp</span><span class="">Intel UHD Graphics 620</span></p>]]></description>
+										<content:encoded><![CDATA[<h2><a title="Asus VivoBook S15 S510UA  đang được kinh doanh chính hãng tại DienmayXanh.com" href="https://www.dienmayxanh.com/laptop/asus-s510ua-i5-8250u-bq414t" target="_blank" rel="noopener">Asus S15 S510UA i5</a> phiên bản <a title="Laptop chính hãng đang được kinh doanh tại DienmayXanh.com" href="https://www.dienmayxanh.com/laptop" target="_blank" rel="noopener">máy tính</a> nâng cấp hết sức giá trị với chip xử lý thế hệ thứ 8 mới nhất của Intel cho hiệu năng vượt trội, đáp ứng tốt cho bạn trong các nhu cầu <a title="Laptop phù hợp sinh viên - nhân viên văn phòng đang được kinh doanh tại dienmayXanh.com" href="https://www.dienmayxanh.com/laptop?g=hoc-tap-van-phong" target="_blank" rel="noopener">làm việc, học tập</a>, giải trí hằng ngày.</h2>
+]]></content:encoded>
 					
 					<wfw:commentRss>https://prince06031998.github.io/shopping/product/asus-vivobook-15/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -96,8 +200,16 @@
 		<pubDate>Sat, 19 Jun 2021 05:27:03 +0000</pubDate>
 				<guid isPermaLink="false">https://prince06031998.github.io/shopping/?post_type=product&#038;p=944</guid>
 
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
+					<description><![CDATA[CPU : Intel® Core™ i5-1135G7 Processor, 2.40GHz up to 4.20GHz, 4 nhân 8 luồng, 8MB Intel® Smart Cache
+GPU : Intel® Iris® Xe Graphics
+SSD : 512GB SSD PCIe
+RAM : 8GB
+MÀN HÌNH : 14" FHD]]></description>
+										<content:encoded><![CDATA[CPU : Intel® Core™ i5-1135G7 Processor, 2.40GHz up to 4.20GHz, 4 nhân 8 luồng, 8MB Intel® Smart Cache
+GPU : Intel® Iris® Xe Graphics
+SSD : 512GB SSD PCIe
+RAM : 8GB
+MÀN HÌNH : 14" FHD]]></content:encoded>
 					
 					<wfw:commentRss>https://prince06031998.github.io/shopping/product/asus-zenbook/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -113,8 +225,23 @@
 		<pubDate>Sat, 19 Jun 2021 05:24:36 +0000</pubDate>
 				<guid isPermaLink="false">https://prince06031998.github.io/shopping/?post_type=product&#038;p=942</guid>
 
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
+					<description><![CDATA[ CPU: Intel Core i5-10210U
+- Màn hình: 15.6" (1920 x 1080)
+- RAM: 1 x 4GB Onboard DDR4 2666MHz
+- Đồ họa: NVIDIA GeForce MX230 2GB GDDR5 / Intel UHD Graphics
+- Lưu trữ: 256GB SSD M.2 NVMe /
+- Hệ điều hành: Windows 10 Home SL 64-bit
+- Pin: 2 cell 36 Wh Pin liền
+- Khối lượng: 1.7 kg]]></description>
+										<content:encoded><![CDATA[<p>Thương hiệu ACER<br />
+Bảo hành 12<br />
+Thông tin chung<br />
+Màu sắc Đen<br />
+Series laptop<br />
+Aspire 3<br />
+Part-number<br />
+NX.HNSSV.003</p>
+]]></content:encoded>
 					
 					<wfw:commentRss>https://prince06031998.github.io/shopping/product/acer-aspire/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -122,7 +249,7 @@
 		
 			</item>
 		<item>
-		<title>Acer Nitro 5 NVIDIA GeForce GTX 1650 4GB GDDR6</title>
+		<title>Acer Nitro 5 NVIDIA GeForce GTX 1650</title>
 		<link>https://prince06031998.github.io/shopping/product/acer-nitro-5/</link>
 					<comments>https://prince06031998.github.io/shopping/product/acer-nitro-5/#respond</comments>
 		
@@ -130,8 +257,21 @@
 		<pubDate>Sat, 19 Jun 2021 05:21:53 +0000</pubDate>
 				<guid isPermaLink="false">https://prince06031998.github.io/shopping/?post_type=product&#038;p=940</guid>
 
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
+					<description><![CDATA[ CPU: Intel Core i5-8300H ( 2.3 GHz - 4.0 GHz / 8MB / 4 nhân, 8 luồng )
+ Pin: 4 cell 48 Wh Pin liền , khối lượng: 2.4 kg
+]]></description>
+										<content:encoded><![CDATA[<p>Thương hiệu<br />
+ACER<br />
+Bảo hành<br />
+12<br />
+Thông tin chung<br />
+Màu sắc<br />
+Đen<br />
+Series laptop<br />
+Nitro 5<br />
+Part-number<br />
+NH.Q3LSV.002</p>
+]]></content:encoded>
 					
 					<wfw:commentRss>https://prince06031998.github.io/shopping/product/acer-nitro-5/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -147,8 +287,13 @@
 		<pubDate>Sat, 19 Jun 2021 05:19:55 +0000</pubDate>
 				<guid isPermaLink="false">https://prince06031998.github.io/shopping/?post_type=product&#038;p=939</guid>
 
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
+					<description><![CDATA[CPU : I5 8350U
+GPU : INTEL UHD 620]]></description>
+										<content:encoded><![CDATA[<p>ƯU ĐÃI :<br />
+Tặng balo chống sốc<br />
+Tặng chuột không dây chính hãng<br />
+Tặng lót di chuột</p>
+]]></content:encoded>
 					
 					<wfw:commentRss>https://prince06031998.github.io/shopping/product/hp-elitebook/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -156,7 +301,7 @@
 		
 			</item>
 		<item>
-		<title>Dell Vostro</title>
+		<title>Dell Vostro 15</title>
 		<link>https://prince06031998.github.io/shopping/product/dell-vostro/</link>
 					<comments>https://prince06031998.github.io/shopping/product/dell-vostro/#respond</comments>
 		
@@ -164,8 +309,13 @@
 		<pubDate>Sat, 19 Jun 2021 05:18:21 +0000</pubDate>
 				<guid isPermaLink="false">https://prince06031998.github.io/shopping/?post_type=product&#038;p=937</guid>
 
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
+					<description><![CDATA[CPU : I5 8250U
+GPU : INTEL UHD 620]]></description>
+										<content:encoded><![CDATA[<p>ƯU ĐÃI:<br />
+Tặng balo chống sốc<br />
+Tặng chuột không dây chính hãng<br />
+Tặng lót di chuột</p>
+]]></content:encoded>
 					
 					<wfw:commentRss>https://prince06031998.github.io/shopping/product/dell-vostro/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -181,10 +331,37 @@
 		<pubDate>Sat, 19 Jun 2021 05:16:47 +0000</pubDate>
 				<guid isPermaLink="false">https://prince06031998.github.io/shopping/?post_type=product&#038;p=935</guid>
 
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
+					<description><![CDATA[CPU : I5 8250U
+GPU : INTEL UHD 620]]></description>
+										<content:encoded><![CDATA[<p>ƯU ĐÃI:<br />
+Tặng balo chống sốc<br />
+Tặng chuột không dây chính hãng<br />
+Tặng lót di chuột</p>
+]]></content:encoded>
 					
 					<wfw:commentRss>https://prince06031998.github.io/shopping/product/dell-inspiron-15-3000/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Thinkpad T480</title>
+		<link>https://prince06031998.github.io/shopping/product/thinkpad-t480/</link>
+					<comments>https://prince06031998.github.io/shopping/product/thinkpad-t480/#respond</comments>
+		
+		<dc:creator><![CDATA[Hoàng Lê]]></dc:creator>
+		<pubDate>Sat, 19 Jun 2021 05:11:05 +0000</pubDate>
+				<guid isPermaLink="false">https://prince06031998.github.io/shopping/?post_type=product&#038;p=934</guid>
+
+					<description><![CDATA[CPU : I5 8250U
+GPU : INTEL UHD 620]]></description>
+										<content:encoded><![CDATA[<p>ƯU ĐÃI:<br />
+Tặng balo chống sốc<br />
+Tặng chuột không dây chính hãng<br />
+Tặng lót di chuột</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://prince06031998.github.io/shopping/product/thinkpad-t480/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

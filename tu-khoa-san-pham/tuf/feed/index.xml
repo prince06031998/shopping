@@ -12,15 +12,23 @@
 	<atom:link href="http://localhost/wordpress/tu-khoa-san-pham/tuf/feed/" rel="self" type="application/rss+xml" />
 	<link>https://prince06031998.github.io/shopping</link>
 	<description>Laptop no1 VietNam</description>
-	<lastBuildDate>Sat, 19 Jun 2021 08:03:37 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 04 Jul 2021 13:42:13 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.7.2</generator>
+
+<image>
+	<url>https://prince06031998.github.io/shopping/wp-content/uploads/2021/06/unnamed-1-1.jpg</url>
+	<title>tuf &#8211; Laptop HH</title>
+	<link>https://prince06031998.github.io/shopping</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
-		<title>Asus TUF 15 NVIDIA GeForce GTX 1650 4GB GDDR6</title>
+		<title>Asus TUF 15 NVIDIA GeForce GTX 1650</title>
 		<link>https://prince06031998.github.io/shopping/product/asus-tuf-15/</link>
 					<comments>https://prince06031998.github.io/shopping/product/asus-tuf-15/#respond</comments>
 		
@@ -28,8 +36,36 @@
 		<pubDate>Sat, 19 Jun 2021 05:34:48 +0000</pubDate>
 				<guid isPermaLink="false">https://prince06031998.github.io/shopping/?post_type=product&#038;p=948</guid>
 
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
+					<description><![CDATA[<table id="tblGeneralAttribute" class="table table-bordered" border="3" cellspacing="3" cellpadding="3">
+<tbody>
+<tr class="row-info">
+<td>CPU</td>
+<td>AMD Ryzen 5 4600H 3.0GHz up to 4.0GHz 8MB</td>
+</tr>
+</tbody>
+</table>
+<table id="tblGeneralAttribute" class="table table-bordered" border="3" cellspacing="3" cellpadding="3">
+<tbody>
+<tr class="row-info">
+<td>Card đồ họa</td>
+<td>NVIDIA GeForce GTX 1650 4GB GDDR6 + AMD Radeon™ Graphics</td>
+</tr>
+</tbody>
+</table>
+<table id="tblGeneralAttribute" class="table table-bordered" border="3" cellspacing="3" cellpadding="3">
+<tbody>
+<tr class="row-info">
+<td>Màn hình</td>
+<td>15.6" FHD (1920 x 1080) IPS, 144Hz</td>
+</tr>
+</tbody>
+</table>]]></description>
+										<content:encoded><![CDATA[<p><strong>Nhà sản xuất</strong> : ASUS</p>
+<p><strong>Xuất xứ</strong> : Chính hãng</p>
+<p><strong>Bảo hành</strong> : 24 Tháng</p>
+<p><strong>Màu sắc :</strong> Gun Metal</p>
+<p><strong>Tình trạng</strong> : Mới 100%</p>
+]]></content:encoded>
 					
 					<wfw:commentRss>https://prince06031998.github.io/shopping/product/asus-tuf-15/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>

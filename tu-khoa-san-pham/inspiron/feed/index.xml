@@ -12,13 +12,21 @@
 	<atom:link href="http://localhost/wordpress/tu-khoa-san-pham/inspiron/feed/" rel="self" type="application/rss+xml" />
 	<link>https://prince06031998.github.io/shopping</link>
 	<description>Laptop no1 VietNam</description>
-	<lastBuildDate>Sat, 19 Jun 2021 07:55:20 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 04 Jul 2021 15:16:38 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.7.2</generator>
+
+<image>
+	<url>https://prince06031998.github.io/shopping/wp-content/uploads/2021/06/unnamed-1-1.jpg</url>
+	<title>inspiron &#8211; Laptop HH</title>
+	<link>https://prince06031998.github.io/shopping</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>Dell Inspiron 15 3000</title>
 		<link>https://prince06031998.github.io/shopping/product/dell-inspiron-15-3000/</link>
@@ -28,8 +36,13 @@
 		<pubDate>Sat, 19 Jun 2021 05:16:47 +0000</pubDate>
 				<guid isPermaLink="false">https://prince06031998.github.io/shopping/?post_type=product&#038;p=935</guid>
 
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
+					<description><![CDATA[CPU : I5 8250U
+GPU : INTEL UHD 620]]></description>
+										<content:encoded><![CDATA[<p>ƯU ĐÃI:<br />
+Tặng balo chống sốc<br />
+Tặng chuột không dây chính hãng<br />
+Tặng lót di chuột</p>
+]]></content:encoded>
 					
 					<wfw:commentRss>https://prince06031998.github.io/shopping/product/dell-inspiron-15-3000/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>

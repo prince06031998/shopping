@@ -12,13 +12,21 @@
 	<atom:link href="http://localhost/wordpress/tu-khoa-san-pham/aspire/feed/" rel="self" type="application/rss+xml" />
 	<link>https://prince06031998.github.io/shopping</link>
 	<description>Laptop no1 VietNam</description>
-	<lastBuildDate>Sat, 19 Jun 2021 08:00:00 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 04 Jul 2021 15:04:57 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.7.2</generator>
+
+<image>
+	<url>https://prince06031998.github.io/shopping/wp-content/uploads/2021/06/unnamed-1-1.jpg</url>
+	<title>aspire &#8211; Laptop HH</title>
+	<link>https://prince06031998.github.io/shopping</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>Acer Aspire 3</title>
 		<link>https://prince06031998.github.io/shopping/product/acer-aspire/</link>
@@ -28,8 +36,23 @@
 		<pubDate>Sat, 19 Jun 2021 05:24:36 +0000</pubDate>
 				<guid isPermaLink="false">https://prince06031998.github.io/shopping/?post_type=product&#038;p=942</guid>
 
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
+					<description><![CDATA[ CPU: Intel Core i5-10210U
+- Màn hình: 15.6" (1920 x 1080)
+- RAM: 1 x 4GB Onboard DDR4 2666MHz
+- Đồ họa: NVIDIA GeForce MX230 2GB GDDR5 / Intel UHD Graphics
+- Lưu trữ: 256GB SSD M.2 NVMe /
+- Hệ điều hành: Windows 10 Home SL 64-bit
+- Pin: 2 cell 36 Wh Pin liền
+- Khối lượng: 1.7 kg]]></description>
+										<content:encoded><![CDATA[<p>Thương hiệu ACER<br />
+Bảo hành 12<br />
+Thông tin chung<br />
+Màu sắc Đen<br />
+Series laptop<br />
+Aspire 3<br />
+Part-number<br />
+NX.HNSSV.003</p>
+]]></content:encoded>
 					
 					<wfw:commentRss>https://prince06031998.github.io/shopping/product/acer-aspire/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>

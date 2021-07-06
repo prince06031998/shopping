@@ -12,13 +12,21 @@
 	<atom:link href="http://localhost/wordpress/tu-khoa-san-pham/vivobook/feed/" rel="self" type="application/rss+xml" />
 	<link>https://prince06031998.github.io/shopping</link>
 	<description>Laptop no1 VietNam</description>
-	<lastBuildDate>Sat, 19 Jun 2021 08:02:33 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 05 Jul 2021 11:50:27 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.7.2</generator>
+
+<image>
+	<url>https://prince06031998.github.io/shopping/wp-content/uploads/2021/06/unnamed-1-1.jpg</url>
+	<title>vivobook &#8211; Laptop HH</title>
+	<link>https://prince06031998.github.io/shopping</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>Asus Vivobook 15</title>
 		<link>https://prince06031998.github.io/shopping/product/asus-vivobook-15/</link>
@@ -28,8 +36,11 @@
 		<pubDate>Sat, 19 Jun 2021 05:30:20 +0000</pubDate>
 				<guid isPermaLink="false">https://prince06031998.github.io/shopping/?post_type=product&#038;p=946</guid>
 
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
+					<description><![CDATA[<p class="lileft">CPU:  <span class="comma">Intel Core i5 Kabylake Refresh </span><span class="comma">8250U ,1.60 GHz</span></p>
+<p class="lileft">Màn hình: <span class="comma">15.6"</span><span class="">Full HD (1920 x 1080)</span></p>
+<p class="lileft">Card màn hình: <span class="comma">Card tích hợp</span><span class="">Intel UHD Graphics 620</span></p>]]></description>
+										<content:encoded><![CDATA[<h2><a title="Asus VivoBook S15 S510UA  đang được kinh doanh chính hãng tại DienmayXanh.com" href="https://www.dienmayxanh.com/laptop/asus-s510ua-i5-8250u-bq414t" target="_blank" rel="noopener">Asus S15 S510UA i5</a> phiên bản <a title="Laptop chính hãng đang được kinh doanh tại DienmayXanh.com" href="https://www.dienmayxanh.com/laptop" target="_blank" rel="noopener">máy tính</a> nâng cấp hết sức giá trị với chip xử lý thế hệ thứ 8 mới nhất của Intel cho hiệu năng vượt trội, đáp ứng tốt cho bạn trong các nhu cầu <a title="Laptop phù hợp sinh viên - nhân viên văn phòng đang được kinh doanh tại dienmayXanh.com" href="https://www.dienmayxanh.com/laptop?g=hoc-tap-van-phong" target="_blank" rel="noopener">làm việc, học tập</a>, giải trí hằng ngày.</h2>
+]]></content:encoded>
 					
 					<wfw:commentRss>https://prince06031998.github.io/shopping/product/asus-vivobook-15/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>

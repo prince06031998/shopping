@@ -12,7 +12,11 @@
 <link rel="stylesheet" id="login-css" href="https://prince06031998.github.io/shopping/wp-admin/css/login.min.css?ver=5.7.2" media="all">
 	<meta name="referrer" content="strict-origin-when-cross-origin">
 		<meta name="viewport" content="width=device-width">
-		</head>
+	<link rel="icon" href="https://prince06031998.github.io/shopping/wp-content/uploads/2021/06/unnamed-1-1.jpg" sizes="32x32">
+<link rel="icon" href="https://prince06031998.github.io/shopping/wp-content/uploads/2021/06/unnamed-1-1.jpg" sizes="192x192">
+<link rel="apple-touch-icon" href="https://prince06031998.github.io/shopping/wp-content/uploads/2021/06/unnamed-1-1.jpg">
+<meta name="msapplication-TileImage" content="https://prince06031998.github.io/shopping/wp-content/uploads/2021/06/unnamed-1-1.jpg">
+	</head>
 	<body class="login no-js login-action-login wp-core-ui  locale-vi">
 	<script type="text/javascript">
 		document.body.className = document.body.className.replace('no-js','js');
@@ -85,7 +89,7 @@ var _wpUtilSettings = {"ajax":{"url":"\/wordpress\/wp-admin\/admin-ajax.php"}};
 </script>
 <script src="https://prince06031998.github.io/shopping/wp-includes/js/wp-util.min.js?ver=5.7.2" id="wp-util-js"></script>
 <script id="user-profile-js-extra">
-var userProfileL10n = {"user_id":"0","nonce":"3833421132"};
+var userProfileL10n = {"user_id":"0","nonce":"fbcaa3d302"};
 </script>
 <script id="user-profile-js-translations">
 ( function( domain, translations ) {

@@ -12,15 +12,23 @@
 	<atom:link href="http://localhost/wordpress/tu-khoa-san-pham/latitude/feed/" rel="self" type="application/rss+xml" />
 	<link>https://prince06031998.github.io/shopping</link>
 	<description>Laptop no1 VietNam</description>
-	<lastBuildDate>Sat, 19 Jun 2021 07:49:51 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 04 Jul 2021 15:19:50 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.7.2</generator>
+
+<image>
+	<url>https://prince06031998.github.io/shopping/wp-content/uploads/2021/06/unnamed-1-1.jpg</url>
+	<title>latitude &#8211; Laptop HH</title>
+	<link>https://prince06031998.github.io/shopping</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
-		<title>Dell Latitude e6430</title>
+		<title>Dell Latitude E6430 ( CŨ )</title>
 		<link>https://prince06031998.github.io/shopping/product/dell-latitude-e6430/</link>
 					<comments>https://prince06031998.github.io/shopping/product/dell-latitude-e6430/#respond</comments>
 		
@@ -28,8 +36,13 @@
 		<pubDate>Sat, 19 Jun 2021 03:44:04 +0000</pubDate>
 				<guid isPermaLink="false">https://prince06031998.github.io/shopping/?post_type=product&#038;p=922</guid>
 
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
+					<description><![CDATA[CPU : I5 3320M
+VGA ONBOARD]]></description>
+										<content:encoded><![CDATA[<p>ƯU ĐÃI:<br />
+Tặng balo chống sốc<br />
+Tặng chuột không dây chính hãng<br />
+Tặng lót di chuột</p>
+]]></content:encoded>
 					
 					<wfw:commentRss>https://prince06031998.github.io/shopping/product/dell-latitude-e6430/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>

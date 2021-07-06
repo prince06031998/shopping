@@ -12,15 +12,23 @@
 	<atom:link href="http://localhost/wordpress/danh-muc-san-pham/laptop-hh/asus/feed/" rel="self" type="application/rss+xml" />
 	<link>https://prince06031998.github.io/shopping</link>
 	<description>Laptop no1 VietNam</description>
-	<lastBuildDate>Sat, 19 Jun 2021 08:03:37 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 05 Jul 2021 11:50:27 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.7.2</generator>
+
+<image>
+	<url>https://prince06031998.github.io/shopping/wp-content/uploads/2021/06/unnamed-1-1.jpg</url>
+	<title>Asus &#8211; Laptop HH</title>
+	<link>https://prince06031998.github.io/shopping</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
-		<title>Asus TUF 15 NVIDIA GeForce GTX 1650 4GB GDDR6</title>
+		<title>Asus TUF 15 NVIDIA GeForce GTX 1650</title>
 		<link>https://prince06031998.github.io/shopping/product/asus-tuf-15/</link>
 					<comments>https://prince06031998.github.io/shopping/product/asus-tuf-15/#respond</comments>
 		
@@ -28,8 +36,36 @@
 		<pubDate>Sat, 19 Jun 2021 05:34:48 +0000</pubDate>
 				<guid isPermaLink="false">https://prince06031998.github.io/shopping/?post_type=product&#038;p=948</guid>
 
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
+					<description><![CDATA[<table id="tblGeneralAttribute" class="table table-bordered" border="3" cellspacing="3" cellpadding="3">
+<tbody>
+<tr class="row-info">
+<td>CPU</td>
+<td>AMD Ryzen 5 4600H 3.0GHz up to 4.0GHz 8MB</td>
+</tr>
+</tbody>
+</table>
+<table id="tblGeneralAttribute" class="table table-bordered" border="3" cellspacing="3" cellpadding="3">
+<tbody>
+<tr class="row-info">
+<td>Card đồ họa</td>
+<td>NVIDIA GeForce GTX 1650 4GB GDDR6 + AMD Radeon™ Graphics</td>
+</tr>
+</tbody>
+</table>
+<table id="tblGeneralAttribute" class="table table-bordered" border="3" cellspacing="3" cellpadding="3">
+<tbody>
+<tr class="row-info">
+<td>Màn hình</td>
+<td>15.6" FHD (1920 x 1080) IPS, 144Hz</td>
+</tr>
+</tbody>
+</table>]]></description>
+										<content:encoded><![CDATA[<p><strong>Nhà sản xuất</strong> : ASUS</p>
+<p><strong>Xuất xứ</strong> : Chính hãng</p>
+<p><strong>Bảo hành</strong> : 24 Tháng</p>
+<p><strong>Màu sắc :</strong> Gun Metal</p>
+<p><strong>Tình trạng</strong> : Mới 100%</p>
+]]></content:encoded>
 					
 					<wfw:commentRss>https://prince06031998.github.io/shopping/product/asus-tuf-15/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -45,8 +81,11 @@
 		<pubDate>Sat, 19 Jun 2021 05:30:20 +0000</pubDate>
 				<guid isPermaLink="false">https://prince06031998.github.io/shopping/?post_type=product&#038;p=946</guid>
 
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
+					<description><![CDATA[<p class="lileft">CPU:  <span class="comma">Intel Core i5 Kabylake Refresh </span><span class="comma">8250U ,1.60 GHz</span></p>
+<p class="lileft">Màn hình: <span class="comma">15.6"</span><span class="">Full HD (1920 x 1080)</span></p>
+<p class="lileft">Card màn hình: <span class="comma">Card tích hợp</span><span class="">Intel UHD Graphics 620</span></p>]]></description>
+										<content:encoded><![CDATA[<h2><a title="Asus VivoBook S15 S510UA  đang được kinh doanh chính hãng tại DienmayXanh.com" href="https://www.dienmayxanh.com/laptop/asus-s510ua-i5-8250u-bq414t" target="_blank" rel="noopener">Asus S15 S510UA i5</a> phiên bản <a title="Laptop chính hãng đang được kinh doanh tại DienmayXanh.com" href="https://www.dienmayxanh.com/laptop" target="_blank" rel="noopener">máy tính</a> nâng cấp hết sức giá trị với chip xử lý thế hệ thứ 8 mới nhất của Intel cho hiệu năng vượt trội, đáp ứng tốt cho bạn trong các nhu cầu <a title="Laptop phù hợp sinh viên - nhân viên văn phòng đang được kinh doanh tại dienmayXanh.com" href="https://www.dienmayxanh.com/laptop?g=hoc-tap-van-phong" target="_blank" rel="noopener">làm việc, học tập</a>, giải trí hằng ngày.</h2>
+]]></content:encoded>
 					
 					<wfw:commentRss>https://prince06031998.github.io/shopping/product/asus-vivobook-15/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -62,8 +101,16 @@
 		<pubDate>Sat, 19 Jun 2021 05:27:03 +0000</pubDate>
 				<guid isPermaLink="false">https://prince06031998.github.io/shopping/?post_type=product&#038;p=944</guid>
 
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
+					<description><![CDATA[CPU : Intel® Core™ i5-1135G7 Processor, 2.40GHz up to 4.20GHz, 4 nhân 8 luồng, 8MB Intel® Smart Cache
+GPU : Intel® Iris® Xe Graphics
+SSD : 512GB SSD PCIe
+RAM : 8GB
+MÀN HÌNH : 14" FHD]]></description>
+										<content:encoded><![CDATA[CPU : Intel® Core™ i5-1135G7 Processor, 2.40GHz up to 4.20GHz, 4 nhân 8 luồng, 8MB Intel® Smart Cache
+GPU : Intel® Iris® Xe Graphics
+SSD : 512GB SSD PCIe
+RAM : 8GB
+MÀN HÌNH : 14" FHD]]></content:encoded>
 					
 					<wfw:commentRss>https://prince06031998.github.io/shopping/product/asus-zenbook/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
