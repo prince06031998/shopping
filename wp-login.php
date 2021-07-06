@@ -3,7 +3,7 @@
 	<head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<title>Đăng nhập &lsaquo; Laptop HH &#8212; WordPress</title>
-	<meta name="robots" content="noindex, nofollow, noarchive">
+	<meta name="robots" content="max-image-preview:large, noindex, noarchive">
 <link rel="dns-prefetch" href="//s.w.org">
 <link rel="stylesheet" id="dashicons-css" href="https://prince06031998.github.io/shopping/wp-includes/css/dashicons.min.css?ver=5.7.2" media="all">
 <link rel="stylesheet" id="buttons-css" href="https://prince06031998.github.io/shopping/wp-includes/css/buttons.min.css?ver=5.7.2" media="all">
